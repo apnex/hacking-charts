@@ -1,0 +1,14 @@
+.ct-label {
+	fill: rgba(0, 0, 0, 0.4);
+	color: rgba(0, 0, 0, 0.4);
+	font-size: 1;
+	line-height: 1;
+}
+
+.ct-label.ct-horizontal.ct-end {
+	align-items: flex-end;
+	justify-content: flex-start;
+	text-align: center;
+	text-anchor: start;
+}
+
