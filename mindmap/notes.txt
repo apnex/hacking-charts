@@ -1,0 +1,10 @@
+## interactive mindmap
+http://bl.ocks.org/jdarling/2d4e84460d5f5df9c0ff
+
+## Other
+http://tommykrueger.com/projects/d3tests/index.php
+https://jsfiddle.net/dede89/nxmLbwu2/
+
+## collapsible indented tree
+https://bl.ocks.org/mbostock/1093025
+https://bl.ocks.org/mbostock/e9ba78a2c1070980d1b530800ce7fa2b
